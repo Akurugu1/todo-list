@@ -111,3 +111,22 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+
+@media(max-width: 450px){
+    input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+
